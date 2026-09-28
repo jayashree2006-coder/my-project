@@ -1,0 +1,7 @@
+const a ='hello';
+
+console.log(a[1]); // "e"
+
+const a 'hello';
+
+console.log(a.charAt(1)); // "e"
